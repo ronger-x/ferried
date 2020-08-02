@@ -48,6 +48,11 @@
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/3.gif" height="61px" width="100%" />
+</td>
+</tr>
 </tbody>
 </table>
 </div>
