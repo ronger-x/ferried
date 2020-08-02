@@ -1,10 +1,16 @@
 # 下半期には力が入ります。
 
 <div>
-<img src="https://github.com/ferried/ferried/blob/master/imgs/2.gif"/>
+<img src="https://github.com/ferried/ferried/blob/master/imgs/2.gif" style="height: 61px;
+width: 87%";/>
 </div>
 
 <table>
+<thead>
+<th>
+My Card
+</th>
+</thead>
 <tbody>
 <tr>
 <td> species: </td>
