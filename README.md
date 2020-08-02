@@ -2,11 +2,8 @@
 
 <table>
 <thead>
-<th>
-My Card
-</th>
-<th>
-<img src="https://github.com/ferried/ferried/blob/master/imgs/2.gif" heigth="61px" width="100%" />
+<th colspan="2">
+<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/2.gif" height="61px" width="100%" />
 </th>
 </thead>
 <tbody>
