@@ -3,11 +3,10 @@
 <div>
 
 <div style="float:left;">
-    <img src="./imgs/1.jpg" style="width:40%;height: 250px;"/>
+    <img src="https://github.com/ferried/ferried/blob/master/imgs/1.jpg" style="width:40%;height: 250px;"/>
 </div>
 
-<div style="float:left;margin-left:20px;width:60%;">
-<table>
+<table style="float:left;margin-left:20px;width:60%;">
 <tbody>
 <tr>
 <td> species: </td>
@@ -37,10 +36,11 @@
 </table>
 </div>
 
-<img src="./imgs/2.gif"/>
+
+<br/>
+<img src="https://github.com/ferried/ferried/blob/master/imgs/2.gif"/>
 
 
-</div>
 
 
 
