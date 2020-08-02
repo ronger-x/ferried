@@ -1,5 +1,3 @@
-# 下半期には力が入ります。
-
 <table>
 <thead>
 <th colspan="2">
